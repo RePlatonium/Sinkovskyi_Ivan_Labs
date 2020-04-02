@@ -1,0 +1,6 @@
+C:\Users\LightFire\source\repos\OOP3.2\OOP3.2\bin\Debug\OOP3.2.exe.config
+C:\Users\LightFire\source\repos\OOP3.2\OOP3.2\bin\Debug\OOP3.2.exe
+C:\Users\LightFire\source\repos\OOP3.2\OOP3.2\bin\Debug\OOP3.2.pdb
+C:\Users\LightFire\source\repos\OOP3.2\OOP3.2\obj\Debug\OOP3.2.csprojAssemblyReference.cache
+C:\Users\LightFire\source\repos\OOP3.2\OOP3.2\obj\Debug\OOP3.2.exe
+C:\Users\LightFire\source\repos\OOP3.2\OOP3.2\obj\Debug\OOP3.2.pdb

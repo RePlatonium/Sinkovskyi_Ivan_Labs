@@ -1,0 +1,6 @@
+C:\Users\LightFire\source\repos\Doctora\Doctora\bin\Debug\Doctora.exe.config
+C:\Users\LightFire\source\repos\Doctora\Doctora\bin\Debug\Doctora.exe
+C:\Users\LightFire\source\repos\Doctora\Doctora\bin\Debug\Doctora.pdb
+C:\Users\LightFire\source\repos\Doctora\Doctora\obj\Debug\Doctora.csprojAssemblyReference.cache
+C:\Users\LightFire\source\repos\Doctora\Doctora\obj\Debug\Doctora.exe
+C:\Users\LightFire\source\repos\Doctora\Doctora\obj\Debug\Doctora.pdb

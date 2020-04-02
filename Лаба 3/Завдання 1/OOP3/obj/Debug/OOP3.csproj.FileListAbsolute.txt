@@ -1,0 +1,6 @@
+C:\Users\LightFire\Desktop\Works\C#\OOP3\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\LightFire\Desktop\Works\C#\OOP3\OOP3\bin\Debug\OOP3.exe
+C:\Users\LightFire\Desktop\Works\C#\OOP3\OOP3\bin\Debug\OOP3.pdb
+C:\Users\LightFire\Desktop\Works\C#\OOP3\OOP3\obj\Debug\OOP3.csprojAssemblyReference.cache
+C:\Users\LightFire\Desktop\Works\C#\OOP3\OOP3\obj\Debug\OOP3.exe
+C:\Users\LightFire\Desktop\Works\C#\OOP3\OOP3\obj\Debug\OOP3.pdb
